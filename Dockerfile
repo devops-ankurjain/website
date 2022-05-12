@@ -1,2 +1,2 @@
-FROM mydockerimage
+FROM Ubuntu
 ADD . /var/www/html
